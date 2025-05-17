@@ -21,6 +21,15 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0BCTTH4GWL"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0BCTTH4GWL');
+</script>
         <meta name="google-site-verification" content="ad-qcNq_GrrumhwGtiGccvsvrFy2TsdRtVJyqWBiKZk" />
         <link rel="shortcut icon" href="calculator.png" type="image/x-icon" />
       </head>
