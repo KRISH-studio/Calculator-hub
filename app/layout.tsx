@@ -34,7 +34,7 @@ export default function RootLayout({
             `,
           }}
         />
-          
+         <meta name="google-adsense-account" content="ca-pub-5670862530868386"/> 
         <meta name="google-site-verification" content="ad-qcNq_GrrumhwGtiGccvsvrFy2TsdRtVJyqWBiKZk" />
         <link rel="shortcut icon" href="calculator.png" type="image/x-icon" />
       </head>
