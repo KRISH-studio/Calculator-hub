@@ -34,6 +34,8 @@ export default function RootLayout({
             `,
           }}
         />
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5670862530868386"
+           crossorigin="anonymous"></script>
          <meta name="google-adsense-account" content="ca-pub-5670862530868386"/> 
         <meta name="google-site-verification" content="ad-qcNq_GrrumhwGtiGccvsvrFy2TsdRtVJyqWBiKZk" />
         <link rel="shortcut icon" href="calculator.png" type="image/x-icon" />
